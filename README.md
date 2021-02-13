@@ -25,6 +25,7 @@
     -s, --start-page - Home page of search results.
     -t, --timeout    - Timeout of requests.
     -v, --verbose    - Enable verbosity.
+    -th, --threads   - Number of threads.
 
 Examples:
     python3 fawkes.py --query 'noticias.php?id=10' --timeout 3 --verbose
